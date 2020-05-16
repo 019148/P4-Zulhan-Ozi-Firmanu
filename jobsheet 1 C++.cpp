@@ -16,4 +16,5 @@ int main()
 	cout << ("Data ke-6 : ",my_array[5]);
 	cout << ("Data ke-7 : ",my_array[6]);
 	cout << ("Data ke-8 : ",my_array[7]);
+	
 }
